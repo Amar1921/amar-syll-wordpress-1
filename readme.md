@@ -1,5 +1,5 @@
-# amar-syll-wordpress
+
  
-# username = amar-sarr
-#password = amar
-#All-inOne WP Migration
+ # username : amar-sarr ; password : amar ; install plugin All-inOne WP Migration
+ 
+ 
